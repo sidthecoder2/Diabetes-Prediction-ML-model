@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-
-# diabetes_prediction
+# Diabetes Prediction ML Model
 
 Preview of the Project
 
